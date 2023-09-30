@@ -46,7 +46,7 @@ Step 2
 
 </p>
 <p>
-Next we are going to change the "mainframe" IP address from 10.0.0.4 to 8.8.8.8 
+Next we are going to change the "mainframe" IP address from 10.0.0.4 to 8.8.8.8 in DC-1 and after this we go back to Client 1 and ping "mainframe" again. However, when we ping it the IP address still shows up as 10.0.0.4. So, why's this? Even when we changed it on the DNS Server.
 </p>
 <br />
 
