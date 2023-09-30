@@ -11,6 +11,7 @@ This tutorial outlines the in and outs of how DNS works by taking the human read
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
+- Command Prompt
 
 <h2>Operating Systems Used </h2>
 
@@ -27,7 +28,7 @@ This tutorial outlines the in and outs of how DNS works by taking the human read
 (Images going from left to right)
 <h2>DNS Building Steps</h2>
 
-Stage 1
+Step 1
 <p>
 <img width="1385" alt="Screenshot 2023-09-27 at 4 38 37 PM" src="https://github.com/lucasfregoso/ticket-lifecycle/assets/144977615/66d3b0ad-6a7b-4ac5-8b49-fe500cc79816">
 </p>
