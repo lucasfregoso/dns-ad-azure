@@ -31,7 +31,7 @@ This tutorial outlines the in and outs of how DNS works by taking the human read
 Step 1
 <p>
 <img width="1617" alt="Screenshot 2023-09-29 at 7 31 20 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/c8735ae4-b637-43ef-ab00-9020b0e6f673">
--------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 <img width="1382" alt="Screenshot 2023-09-29 at 7 32 37 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/e8b5f23b-fa1c-4109-90d7-4fe0eaf10339">
 </p>
 <p>
