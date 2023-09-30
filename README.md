@@ -1,29 +1,31 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="609" alt="Screenshot 2023-09-29 at 6 41 03 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/a982e4a9-3c3b-4481-84db-cb8380240086">
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution </h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>DNS - Building an intuition for DNS </h1>
+This tutorial outlines the in and outs of how DNS works by taking the human readable names of various websites and convering them to computer readable and useable IP addresses.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Active Directory Domain Services
+- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b> (22H2)
+- Windows Server Datacenter 2022 Azure Edition
+- Windows 10 (22H2)
 
-<h2>Ticket Lifcycle Stages</h2>
+<h2>DNS Building Steps</h2>
 
-- Stage 1
-- Stage 2
-- Stage 3
-- Stage 4
+- Step 1
+- Step 2
+- Step 3
+- Step 4
 
 (Images going from left to right)
-<h2>Installation Steps</h2>
+<h2>DNS Building Steps</h2>
 
 Stage 1
 <p>
