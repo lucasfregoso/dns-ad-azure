@@ -10,7 +10,6 @@ This tutorial outlines the in and outs of how DNS works by taking the human read
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
 - Command Prompt
 
 <h2>Operating Systems Used </h2>
@@ -23,7 +22,6 @@ This tutorial outlines the in and outs of how DNS works by taking the human read
 - Step 1
 - Step 2
 - Step 3
-- Step 4
 
 (Images going from left to right)
 <h2>DNS Building Steps</h2>
