@@ -33,6 +33,6 @@ Step 1
 <img width="1385" alt="Screenshot 2023-09-27 at 4 38 37 PM" src="https://github.com/lucasfregoso/ticket-lifecycle/assets/144977615/66d3b0ad-6a7b-4ac5-8b49-fe500cc79816">
 </p>
 <p>
-For this lab we are going to building off the Active Directory lab with our two virtual machines being DC-1 as our domain controller and Client 1 essentially as our user. In this part, we go over A reacords which essentially points a domain to the IP address of a computer hosting that domain. First, we connecto DC-1 as our admin (lucas_admin), same with Client 1, and in Client 1 we try and ping "mainframe" and notice that fails. This is because Client 1 tries to do three things, one is by checking the cache and get now result, two is checking the local host file and with no result, three by checking the DNS server and when that has no result, then the ping fails.
+For this lab we are going to building off the Active Directory lab with our two virtual machines being DC-1 as our domain controller and Client 1 essentially as our user. In this part, we go over A reacords which essentially points a domain to the IP address of a computer hosting that domain. First, we connec to DC-1 as our admin (lucas_admin), same with Client 1, and in Client 1 we try and ping "mainframe" and notice that fails. This is because Client 1 tries to do three things, one is by checking the cache and get now result, two is checking the local host file and with no result, three by checking the DNS server and when that has no result, then the ping fails.
 </p>
 <br />
