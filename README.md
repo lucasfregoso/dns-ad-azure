@@ -41,9 +41,9 @@ For this lab we are going to building off the Active Directory lab with our two 
 
 Step 2
 <p>
-
+<img width="1649" alt="Screenshot 2023-09-29 at 7 51 38 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/6b068f73-817f-4b60-993d-b6eedc791537">
 ------------------------------------------------------------------------------------------------------------------------------------
-
+<img width="1649" alt="Screenshot 2023-09-29 at 7 52 05 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/8b39a889-798b-40aa-82b4-11e749570a3f">
 </p>
 <p>
 Next we are going to change the "mainframe" IP address from 10.0.0.4 to 8.8.8.8 in DC-1 and after this we go back to Client 1 and ping "mainframe" again. However, when we ping it the IP address still shows up as 10.0.0.4. So, why's this? Even when we changed it on the DNS Server. The reason why is because the old IP address still exists on the local DNS cache on Client 1 and to override this we use the flush dns command on command prompt. This will clear the old cache from the previous IP address and be rewed with any new IP address essentially. So, when we ping "mainframe" again we can see that the IP address is populated and we can see that it's there not only when we ping it, but we check "ipconfig /all" and see it in "DNS Server."
