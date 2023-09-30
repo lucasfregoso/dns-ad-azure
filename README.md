@@ -29,7 +29,7 @@ This tutorial outlines the in and outs of how DNS works by taking the human read
 Step 1
 <p>
 <img width="1617" alt="Screenshot 2023-09-29 at 7 31 20 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/c8735ae4-b637-43ef-ab00-9020b0e6f673">
------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 <img width="1382" alt="Screenshot 2023-09-29 at 7 32 37 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/e8b5f23b-fa1c-4109-90d7-4fe0eaf10339">
 </p>
 <p>
@@ -40,7 +40,7 @@ For this lab we are going to building off the Active Directory lab with our two 
 Step 2
 <p>
 <img width="1649" alt="Screenshot 2023-09-29 at 7 51 38 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/6b068f73-817f-4b60-993d-b6eedc791537">
-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 <img width="1649" alt="Screenshot 2023-09-29 at 7 52 05 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/8b39a889-798b-40aa-82b4-11e749570a3f">
 </p>
 <p>
