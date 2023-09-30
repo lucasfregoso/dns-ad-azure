@@ -38,3 +38,18 @@ Step 1
 For this lab we are going to building off the Active Directory lab with our two virtual machines being DC-1 as our domain controller and Client 1 essentially as our user. In this part, we go over A reacords which essentially points a domain to the IP address of a computer hosting that domain. First, we connec to DC-1 as our admin (lucas_admin), same with Client 1, and in Client 1 we try and ping "mainframe" and notice that fails. This is because Client 1 tries to do three things, one is by checking the cache and get now result, two is checking the local host file and with no result, three by checking the DNS server and when that has no result, then the ping fails. So to correct this, on DC-1 we go to server manager, then tools, click DC-1, expand forward lookup zones, click domainexpansion.com, and add a new A Record. For the name we put "mainframe" and then for the IP address we put it as 10.0.0.4. When we ping it again, we now get a reponse back indicating to us that it works now and the reason being is because we now have a record for it. 
 </p>
 <br />
+
+Step 2
+<p>
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+</p>
+<p>
+Next we are going to change the "mainframe" IP address from 10.0.0.4 to 8.8.8.8 
+</p>
+<br />
+
+
+
+
