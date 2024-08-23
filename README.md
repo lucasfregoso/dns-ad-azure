@@ -40,7 +40,7 @@ For this lab we are going to building off the Active Directory lab with our two 
 Step 2
 <p>
 <img width="1649" alt="Screenshot 2023-09-29 at 7 51 38 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/6b068f73-817f-4b60-993d-b6eedc791537">
--------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 <img width="1649" alt="Screenshot 2023-09-29 at 7 52 05 PM" src="https://github.com/lucasfregoso/dns-ad-azure/assets/144977615/8b39a889-798b-40aa-82b4-11e749570a3f">
 </p>
 <p>
